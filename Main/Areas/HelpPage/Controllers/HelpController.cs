@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using HelloWorld.Areas.HelpPage.ModelDescriptions;
-using HelloWorld.Areas.HelpPage.Models;
+using Main.Areas.HelpPage.ModelDescriptions;
+using Main.Areas.HelpPage.Models;
 
-namespace HelloWorld.Areas.HelpPage.Controllers
+namespace Main.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

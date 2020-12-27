@@ -1,6 +1,6 @@
 using System;
 
-namespace HelloWorld.Areas.HelpPage.ModelDescriptions
+namespace Main.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

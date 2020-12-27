@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using HelloWorld.Areas.HelpPage.ModelDescriptions;
-using HelloWorld.Areas.HelpPage.Models;
+using Main.Areas.HelpPage.ModelDescriptions;
+using Main.Areas.HelpPage.Models;
 
-namespace HelloWorld.Areas.HelpPage
+namespace Main.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

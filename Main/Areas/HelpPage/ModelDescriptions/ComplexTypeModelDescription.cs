@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace HelloWorld.Areas.HelpPage.ModelDescriptions
+namespace Main.Areas.HelpPage.ModelDescriptions
 {
     public class ComplexTypeModelDescription : ModelDescription
     {
